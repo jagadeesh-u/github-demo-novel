@@ -1,0 +1,7 @@
+main {}
+{
+init 1,2,4,5
+printf ("print integer values")
+scanf ("%d","%S")
+getch {}
+}
